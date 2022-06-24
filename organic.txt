@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CMP </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/69d86265d2.js" crossorigin="anonymous"></script>
+<style>
+a:link, a:visited {
+  background-color: #4682b4;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: darkgreen;
+}
+.center {
+  text-align: center;
+  color: darkgreen;
+}
+</style>
+</head>
+<body>
+
+<h1 class="center"><i class="fa-solid fa-ghost" style="font-size:45px;color:darkseagreen;"></i> Organic Chemistry <i class="fa-solid fa-ghost" style="font-size:45px;color:darkseagreen;"></i></h1><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/574246480635130/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 1</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/713764756435454/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;"> Class 2 </i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/555386329511125/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 3</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/1100618087193198/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 4</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/1068249757121978/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 5</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/476981477451296/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 6</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/324406909861164/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 7</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/5143577549070528/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 8</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/5061067244011301/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 9</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100009260868183/videos/338347138461910/?__cft__[0]=AZWGpC96Hr9349rZY-YFXbM0_7Rmo3tXAFR8kyTALZq-CnOISbRZFzR4aLSGtpiZVXUbKyTDQ85fb09mxTV2R-mM-Te7WSz93qT60Zna438SZJgMQmbWqRA7yf2p1Mt-Hs0&__tn__=-UK-R"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 10</i></a></p><br>
+
+
+
+
+
+</body>
+</html>
+
+
